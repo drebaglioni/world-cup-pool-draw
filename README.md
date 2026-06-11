@@ -1,8 +1,8 @@
 # World Cup Pool Draw
 
-A live, single-file draw application for a tiered family World Cup pool. Built for screen-sharing on Google Meet — five players, forty-eight teams, four tiers and a final pool.
+A live, single-file draw application for a tiered family World Cup pool. Built for five players, forty-eight teams, four tiers and a final pool.
 
-Originally made for the **Casa Baglioni** 2026 family draw. Free for anyone to fork and run their own.
+Free for anyone to fork and run their own.
 
 ## What it does
 
