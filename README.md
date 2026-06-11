@@ -69,4 +69,4 @@ MIT. See [`LICENSE`](./LICENSE).
 
 ---
 
-Built by [Andrea Baglioni](https://github.com/) with [Claude](https://claude.ai). If you fork it and run a successful family draw, I'd love to hear about it.
+Built by [Andrea Baglioni](https://drebaglioni.com/). If you fork it and run a successful family draw, I'd love to hear about it.
